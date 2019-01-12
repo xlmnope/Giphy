@@ -8,3 +8,7 @@
 .gifstill {
   margin: auto;
 }
+
+.gif {
+  cursor: pointer;
+}
