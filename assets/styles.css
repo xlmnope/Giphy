@@ -12,3 +12,16 @@
 .gif {
   cursor: pointer;
 }
+
+.sesemestreetbg {
+  height: 600px;
+  width: 100%;
+  background-image: url("images/sesemestreetbanner.jpeg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+#load-more {
+  visibility: hidden;
+}
